@@ -1,0 +1,140 @@
+body{
+	background-color: gray;
+}
+.head{
+	background-color: #115C9B;
+	height: 1em;
+
+}
+.head p, .head a{
+	display: inline-block;
+	font-weight: normal;
+	font-size: 0.9em;
+	font-style: serif;
+	color: #fff;
+	position:relative;
+	top: -0.2em;
+	left: 3em;
+}
+.icon{
+	position: relative;
+	left: 50em;
+}
+.icon a:hover, .head a:hover, .nav a{
+	color: #fff;
+	text-decoration: none;
+}
+.navbar, .navbar-brand, .navbar-brand:hover{
+	background-color: #1F76BD;
+	border-radius: 0%;
+	color:#fff;
+	font-style: italic;
+	font-family: serif;
+}
+
+#myCarousel{
+	position: relative;
+	top: -1.5em;
+}
+/*.navv{
+	em;
+	position: relative;*/
+}
+.navbar-brand{
+	position: relative;
+	left: 10em;
+}
+.dropdown ul{
+	background-color: #1F76BD;
+}
+#menu li a:hover{ 
+	color: #fff;
+}
+#nail, #nail h2, #nail p{
+	background-color:#1F76BD; 
+	color: #fff;
+	text-align: center;
+}
+#sponsors ul li{
+	display: inline;
+}
+#sponsors h2, #causes h3, #about h3, #about p, .shift h3,#causes2 h4, #causes2 p{
+	color: #115C9B;
+}
+
+.footer{
+	background-color: #115C9B;
+	height: 3em;
+	width: 100%;
+}
+.footer1{
+	background-color: #1F76BD;
+	height: 23em;
+	width: 100%
+} 
+.footer1 h3, .footer1 p,.footer p{
+	color: #fff;
+}
+.btn1{
+	width: 9em;
+	height: 3em;
+	border-radius:0em;
+	background-color: #115C9B;
+	color: #fff;
+	border: 1px solid #fff
+
+}
+.btn1:hover{
+	background-color: #fff;
+	color: #115C9B
+}
+.item img{
+	width: 100%;
+	height: 13em;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.item{
+	position: relative;top: -1.4em;
+}
+.shift h3{
+	text-align: center;
+}
+.shift1 img{
+	height: 25em;
+	border: 1px solid #115C9B;
+
+} 
+.shift2 div{
+	position: relative;
+	top: -8em;
+	height: 8em;
+	background-color:#1F76BD;
+
+}
+.shift2 h4 , .shift2 h6, .shift2 a{
+	text-align: center;
+	color: #fff;
+	font-weight: bolder;
+	position: relative;
+	top: 0.3em;
+	padding: 0.2em;
+
+}
+.shift2 h4 a:hover{
+	color: #fff
+}
+.shift2 span a{
+	position: relative;
+	left:2em;
+	color: #fff;
+	margin: 0.7em;
+}
+.shift2 span a:hover{
+	color: black;
+	text-decoration: none;
+}
+.marg #nail{
+	margin: 0em;
+}
